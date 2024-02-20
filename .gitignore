@@ -1,3 +1,5 @@
 metastore_db/
 *.log
 spark-warehouse/
+meteor-showers/data/*
+over-the-moon/sample-return/data/*
